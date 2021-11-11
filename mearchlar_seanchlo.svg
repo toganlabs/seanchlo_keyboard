@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="méarchlár_seancló.svg"
+   sodipodi:docname="mearchlar_seanchlo.svg"
    inkscape:export-filename="/home/pidge/Downloads/méarchlár_seancló.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -170,9 +170,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1049.713"
-     inkscape:cy="287.47428"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="594.71442"
+     inkscape:cy="389.36554"
      inkscape:document-units="px"
      inkscape:current-layer="layer46"
      showgrid="false"
@@ -206,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10020,13 +10020,13 @@
        id="text26270-2"
        x="635.00214"
        y="173.24777"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.55200005px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;stroke-width:1.0666666;fill-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.55199946px;font-family:'Glanchlo GC';-inkscape-font-specification:'Glanchlo GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;stroke-width:1.0666666;fill-opacity:1;"
        transform="scale(0.99911987,1.0008809)">
       <tspan
          id="tspan26272-5"
          y="173.24777"
          x="635.00214"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.55200005px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0666666;">*</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.55199946px;font-family:'Glanchlo GC';-inkscape-font-specification:'Glanchlo GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0666666;">*</tspan>
     </text>
     <text
        id="text26274-4"
@@ -11272,15 +11272,15 @@
        id="path4376-5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Glanchlo GC';-inkscape-font-specification:'Glanchlo GC Bold';letter-spacing:0px;word-spacing:-69.23000336px;fill:#000000;fill-opacity:1;stroke:none;"
-       x="56.803791"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Glanchlo GC';-inkscape-font-specification:'Glanchlo GC Bold';letter-spacing:0px;word-spacing:-69.23000336px;fill:#000000;fill-opacity:1;stroke:none"
+       x="54.803791"
        y="76.229965"
        id="text74592"><tspan
          sodipodi:role="line"
          id="tspan74590"
-         x="56.803791"
+         x="54.803791"
          y="76.229965"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:'Glanchlo GC';-inkscape-font-specification:'Glanchlo GC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;">Éalú</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Éalú</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
@@ -11617,7 +11617,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.47px;word-spacing:-69.12000275px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;">Ꞅcꞃioꞅ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1152.4302"
        y="73.832268"
        id="text62065-7-7"><tspan
@@ -11625,10 +11625,10 @@
          id="tspan62063-6-5"
          x="1152.4302"
          y="73.832268"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;">PɼScá</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">PɼꞄcá</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1222.8916"
        y="73.290039"
        id="text62065-7-7-9"><tspan
@@ -11636,10 +11636,10 @@
          id="tspan62063-6-5-6"
          x="1222.8916"
          y="73.290039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;">Glasáil</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Glaꞅáil</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:-69.23000336px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1300.6348"
        y="73.290039"
        id="text62065-7-7-9-2"><tspan
@@ -11647,7 +11647,7 @@
          id="tspan62063-6-5-6-1"
          x="1300.6348"
          y="73.290039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;">Stad</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Bunchlo Dubh GC';-inkscape-font-specification:'Bunchlo Dubh GC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Ꞅtad</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
